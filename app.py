@@ -1,4 +1,4 @@
-pip install folium, pandas, geopandas
+pip install folium
 
 import csv
 import pandas as pd
