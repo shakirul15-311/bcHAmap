@@ -3,9 +3,9 @@ import pandas as pd
 import folium
 import geopandas as gpd
 
-brth_data = pd.read_csv("C:/Users/mshakiru/OneDrive - Government of BC/7. Python/MapApp/births_data.csv")
-dth_data = pd.read_csv("C:/Users/mshakiru/OneDrive - Government of BC/7. Python/MapApp/deaths_data.csv")
-stlbrth_data = pd.read_csv("C:/Users/mshakiru/OneDrive - Government of BC/7. Python/MapApp/stillbirth_data.csv")
+brth_data = pd.read_csv("births_data.csv")
+dth_data = pd.read_csv("deaths_data.csv")
+stlbrth_data = pd.read_csv("stillbirth_data.csv")
 
 
 df1 = brth_data
@@ -31,7 +31,7 @@ df3.rename(columns={'STLBRTH_CNT': 'Total Stillbirths'}, inplace=True)
 ###############
 #######################
 # Load GeoJSON file
-gdf = gpd.read_file('C:/Users/mshakiru/OneDrive - Government of BC/7. Python/MapApp/BCHA_HEALTH_AUTHORITY_BNDRY_SP.geojson')
+gdf = gpd.read_file('BCHA_HEALTH_AUTHORITY_BNDRY_SP.geojson')
 
 # Display the GeoDataFrame
 #gdf
