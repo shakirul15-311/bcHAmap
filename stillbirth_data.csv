@@ -1,0 +1,515 @@
+,STLBRTH_CNT,CHLD_GENDER_CD,EVT_MTH,EVT_YR,MTHR_RSDC_HA_AREA,MTHR_RSDC_LHA,Month
+0,1,M,JAN-2015,2015,Fraser,Langley,JAN
+1,1,M,JAN-2015,2015,Interior,Nelson,JAN
+2,1,M,JAN-2015,2015,Vancouver Coastal,Howe Sound,JAN
+3,1,M,JAN-2015,2015,Fraser,Burnaby,JAN
+4,1,F,FEB-2015,2015,Fraser,Mission,FEB
+5,1,U,MAR-2015,2015,Fraser,Surrey,MAR
+6,1,U,JAN-2015,2015,None,,JAN
+7,1,M,FEB-2015,2015,Northern,Smithers,FEB
+8,1,M,FEB-2015,2015,Northern,Prince George,FEB
+9,1,U,FEB-2015,2015,Vancouver Coastal,Vancouver - South,FEB
+10,1,U,MAR-2015,2015,Vancouver Island,Greater Nanaimo,MAR
+11,1,M,JAN-2015,2015,Fraser,Abbotsford,JAN
+12,1,F,FEB-2015,2015,Fraser,Tri-Cities,FEB
+13,1,F,MAR-2015,2015,Interior,Central Okanagan,MAR
+14,1,M,APR-2015,2015,Vancouver Coastal,Vancouver - City Centre,APR
+15,1,M,JAN-2015,2015,Vancouver Island,Comox Valley,JAN
+16,1,M,JAN-2015,2015,Fraser,Maple Ridge/Pitt Meadows,JAN
+17,1,F,JAN-2015,2015,Northern,Prince George,JAN
+18,1,U,JAN-2015,2015,Fraser,Abbotsford,JAN
+19,1,U,JAN-2015,2015,Fraser,Burnaby,JAN
+20,1,U,JAN-2015,2015,Vancouver Coastal,Vancouver - Northeast,JAN
+21,1,F,FEB-2015,2015,Fraser,Burnaby,FEB
+22,1,M,MAR-2015,2015,Interior,Central Okanagan,MAR
+23,1,M,MAR-2015,2015,Interior,Central Okanagan,MAR
+24,1,F,MAR-2015,2015,Vancouver Island,Cowichan Valley South,MAR
+25,1,F,MAR-2015,2015,Interior,Central Okanagan,MAR
+26,1,F,MAR-2015,2015,Vancouver Coastal,Vancouver - Midtown,MAR
+27,1,U,MAR-2015,2015,Northern,Prince George,MAR
+28,1,M,MAR-2015,2015,Fraser,Surrey,MAR
+29,1,M,APR-2015,2015,Vancouver Coastal,Vancouver - South,APR
+30,1,M,APR-2015,2015,Fraser,New Westminster,APR
+31,1,F,JAN-2015,2015,Fraser,Langley,JAN
+32,1,F,JAN-2015,2015,Fraser,Langley,JAN
+33,1,U,JAN-2015,2015,Vancouver Coastal,Howe Sound,JAN
+34,1,M,FEB-2015,2015,Interior,Salmon Arm,FEB
+35,1,M,FEB-2015,2015,Fraser,Surrey,FEB
+36,1,F,FEB-2015,2015,Vancouver Island,Cowichan Valley South,FEB
+37,1,U,FEB-2015,2015,Interior,South Cariboo,FEB
+38,1,M,MAR-2015,2015,Vancouver Coastal,Vancouver - Westside,MAR
+39,1,M,MAR-2015,2015,Fraser,Tri-Cities,MAR
+40,1,M,MAR-2015,2015,Vancouver Coastal,Vancouver - City Centre,MAR
+41,1,F,MAR-2015,2015,Interior,100 Mile House,MAR
+42,1,F,MAR-2015,2015,Fraser,Surrey,MAR
+43,1,F,MAR-2015,2015,Fraser,Abbotsford,MAR
+44,1,U,MAR-2015,2015,Vancouver Coastal,North Vancouver,MAR
+45,1,U,MAR-2015,2015,Fraser,Surrey,MAR
+46,1,M,APR-2015,2015,Northern,Peace River North,APR
+47,1,U,JAN-2015,2015,None,,JAN
+48,1,U,JAN-2015,2015,Fraser,Burnaby,JAN
+49,1,M,FEB-2015,2015,Vancouver Coastal,Central Coast,FEB
+50,1,M,FEB-2015,2015,Northern,Prince George,FEB
+51,1,M,FEB-2015,2015,Fraser,Langley,FEB
+52,1,F,FEB-2015,2015,Interior,Vernon,FEB
+53,1,U,FEB-2015,2015,Fraser,Delta,FEB
+54,1,U,FEB-2015,2015,Northern,Peace River North,FEB
+55,1,U,FEB-2015,2015,Fraser,New Westminster,FEB
+56,1,U,FEB-2015,2015,Vancouver Coastal,Vancouver - Midtown,FEB
+57,1,M,MAR-2015,2015,Vancouver Coastal,Vancouver - City Centre,MAR
+58,1,M,MAR-2015,2015,Fraser,Surrey,MAR
+59,1,F,MAR-2015,2015,Fraser,Tri-Cities,MAR
+60,1,U,MAR-2015,2015,Vancouver Coastal,North Vancouver,MAR
+61,1,U,MAR-2015,2015,Interior,Central Okanagan,MAR
+62,1,U,MAR-2015,2015,Vancouver Coastal,Vancouver - Westside,MAR
+63,1,M,APR-2015,2015,Vancouver Island,Greater Victoria,APR
+64,1,M,APR-2015,2015,Northern,Prince George,APR
+65,1,M,JAN-2015,2015,Vancouver Island,Greater Victoria,JAN
+66,1,M,JAN-2015,2015,Northern,Smithers,JAN
+67,1,M,JAN-2015,2015,Fraser,Langley,JAN
+68,1,M,JAN-2015,2015,Vancouver Island,Alberni/Clayoquot,JAN
+69,1,M,JAN-2015,2015,Interior,Central Okanagan,JAN
+70,1,M,JAN-2015,2015,Vancouver Coastal,Vancouver - Northeast,JAN
+71,1,F,JAN-2015,2015,Vancouver Coastal,Vancouver - Westside,JAN
+72,1,F,JAN-2015,2015,Fraser,South Surrey/White Rock,JAN
+73,1,F,JAN-2015,2015,Vancouver Coastal,Vancouver - Midtown,JAN
+74,1,F,JAN-2015,2015,Fraser,Surrey,JAN
+75,1,F,JAN-2015,2015,Interior,Merritt,JAN
+76,1,F,JAN-2015,2015,Fraser,Surrey,JAN
+77,1,F,JAN-2015,2015,None,,JAN
+78,1,F,JAN-2015,2015,Vancouver Coastal,Sunshine Coast,JAN
+79,1,F,JAN-2015,2015,Vancouver Coastal,Sunshine Coast,JAN
+80,1,F,JAN-2015,2015,Interior,Creston,JAN
+81,1,U,JAN-2015,2015,Northern,Peace River North,JAN
+82,1,U,JAN-2015,2015,Fraser,Surrey,JAN
+83,1,U,JAN-2015,2015,Fraser,Surrey,JAN
+84,1,U,JAN-2015,2015,Vancouver Coastal,Vancouver - South,JAN
+85,1,M,FEB-2015,2015,Fraser,Abbotsford,FEB
+86,1,M,FEB-2015,2015,Vancouver Island,Oceanside,FEB
+87,1,M,FEB-2015,2015,Northern,Peace River North,FEB
+88,1,M,FEB-2015,2015,Fraser,New Westminster,FEB
+89,1,M,FEB-2015,2015,Fraser,Burnaby,FEB
+90,1,M,FEB-2015,2015,Vancouver Coastal,Vancouver - Midtown,FEB
+91,1,M,FEB-2015,2015,Interior,Fernie,FEB
+92,1,M,MAR-2015,2015,Vancouver Island,Greater Victoria,MAR
+93,1,F,FEB-2015,2015,Fraser,Tri-Cities,FEB
+94,1,F,FEB-2015,2015,Fraser,Tri-Cities,FEB
+95,1,F,FEB-2015,2015,Northern,Prince George,FEB
+96,1,F,FEB-2015,2015,Vancouver Coastal,Vancouver - South,FEB
+97,1,F,FEB-2015,2015,Fraser,Burnaby,FEB
+98,1,U,FEB-2015,2015,Fraser,Surrey,FEB
+99,1,U,FEB-2015,2015,None,,FEB
+100,1,U,FEB-2015,2015,Fraser,Surrey,FEB
+101,1,U,FEB-2015,2015,Fraser,New Westminster,FEB
+102,1,U,FEB-2015,2015,Fraser,Burnaby,FEB
+103,1,U,FEB-2015,2015,Fraser,Maple Ridge/Pitt Meadows,FEB
+104,1,U,FEB-2015,2015,None,,FEB
+105,1,M,MAR-2015,2015,Fraser,Burnaby,MAR
+106,1,M,MAR-2015,2015,Interior,Trail,MAR
+107,1,M,MAR-2015,2015,Fraser,Surrey,MAR
+108,1,M,MAR-2015,2015,Vancouver Island,Greater Nanaimo,MAR
+109,1,M,MAR-2015,2015,Fraser,Surrey,MAR
+110,1,M,MAR-2015,2015,Fraser,Tri-Cities,MAR
+111,1,M,MAR-2015,2015,Northern,Kitimat,MAR
+112,1,M,MAR-2015,2015,Interior,Cariboo/Chilcotin,MAR
+113,1,M,MAR-2015,2015,Interior,Central Okanagan,MAR
+114,1,M,MAR-2015,2015,Vancouver Island,Western Communities,MAR
+115,1,M,MAR-2015,2015,Interior,Central Okanagan,MAR
+116,1,M,MAR-2015,2015,Interior,Central Okanagan,MAR
+117,1,M,MAR-2015,2015,Fraser,Mission,MAR
+118,1,M,MAR-2015,2015,Fraser,Chilliwack,MAR
+119,1,M,MAR-2015,2015,Vancouver Coastal,Vancouver - Midtown,MAR
+120,1,F,MAR-2015,2015,Vancouver Coastal,Vancouver - Northeast,MAR
+121,1,F,MAR-2015,2015,Vancouver Coastal,Vancouver - Westside,MAR
+122,1,F,MAR-2015,2015,Interior,Cariboo/Chilcotin,MAR
+123,1,F,MAR-2015,2015,Fraser,Surrey,MAR
+124,1,F,MAR-2015,2015,Fraser,Surrey,MAR
+125,1,F,MAR-2015,2015,Vancouver Island,Cowichan Valley South,MAR
+126,1,U,MAR-2015,2015,Fraser,Langley,MAR
+127,1,U,MAR-2015,2015,Fraser,New Westminster,MAR
+128,1,U,MAR-2015,2015,Fraser,Maple Ridge/Pitt Meadows,MAR
+129,1,U,MAR-2015,2015,Fraser,Tri-Cities,MAR
+130,1,U,MAR-2015,2015,Fraser,New Westminster,MAR
+131,1,U,MAR-2015,2015,Fraser,Surrey,MAR
+132,1,U,MAR-2015,2015,Fraser,New Westminster,MAR
+133,1,U,MAR-2015,2015,Vancouver Coastal,Vancouver - City Centre,MAR
+134,1,M,MAR-2015,2015,Vancouver Island,Greater Campbell River,MAR
+135,1,M,APR-2015,2015,Interior,Vernon,APR
+136,1,M,APR-2015,2015,Vancouver Coastal,Vancouver - City Centre,APR
+137,1,M,APR-2015,2015,Vancouver Coastal,North Vancouver,APR
+138,1,M,APR-2015,2015,Fraser,Burnaby,APR
+139,1,M,APR-2015,2015,Fraser,Surrey,APR
+140,1,M,MAY-2015,2015,Fraser,Surrey,MAY
+141,1,M,MAY-2015,2015,Vancouver Island,Saanich Peninsula,MAY
+142,1,F,MAY-2015,2015,Fraser,Surrey,MAY
+143,1,M,APR-2015,2015,Fraser,Surrey,APR
+144,1,U,APR-2015,2015,Fraser,Tri-Cities,APR
+145,1,M,APR-2015,2015,Fraser,Burnaby,APR
+146,1,M,APR-2015,2015,Fraser,Surrey,APR
+147,1,M,APR-2015,2015,Vancouver Coastal,North Vancouver,APR
+148,1,M,APR-2015,2015,Interior,Kimberley,APR
+149,1,F,APR-2015,2015,Interior,Vernon,APR
+150,1,F,APR-2015,2015,Vancouver Coastal,Howe Sound,APR
+151,1,U,APR-2015,2015,Northern,Prince George,APR
+152,1,M,MAY-2015,2015,Interior,Trail,MAY
+153,1,M,MAY-2015,2015,Fraser,Maple Ridge/Pitt Meadows,MAY
+154,1,F,MAY-2015,2015,Fraser,Surrey,MAY
+155,1,U,MAY-2015,2015,Fraser,Burnaby,MAY
+156,1,F,APR-2015,2015,Vancouver Island,Cowichan Valley North,APR
+157,1,F,APR-2015,2015,Fraser,Burnaby,APR
+158,1,F,APR-2015,2015,Fraser,South Surrey/White Rock,APR
+159,1,U,APR-2015,2015,Fraser,Abbotsford,APR
+160,1,M,MAY-2015,2015,Interior,Kamloops,MAY
+161,1,F,MAY-2015,2015,None,,MAY
+162,1,F,MAY-2015,2015,Interior,Penticton,MAY
+163,1,F,MAY-2015,2015,Fraser,New Westminster,MAY
+164,1,U,MAY-2015,2015,Northern,Terrace,MAY
+165,1,U,MAY-2015,2015,Vancouver Island,Greater Nanaimo,MAY
+166,1,M,JUN-2015,2015,Vancouver Coastal,Vancouver - Northeast,JUN
+167,1,U,JUN-2015,2015,None,,JUN
+168,1,M,JUL-2015,2015,Vancouver Coastal,Vancouver - Centre North,JUL
+169,1,U,MAY-2015,2015,Fraser,Mission,MAY
+170,1,M,MAY-2015,2015,Vancouver Island,Western Communities,MAY
+171,1,M,MAY-2015,2015,Northern,Prince Rupert,MAY
+172,1,F,MAY-2015,2015,Fraser,Abbotsford,MAY
+173,1,F,MAY-2015,2015,Fraser,Surrey,MAY
+174,1,U,MAY-2015,2015,Fraser,Burnaby,MAY
+175,1,F,JUN-2015,2015,Vancouver Island,Western Communities,JUN
+176,1,M,JUN-2015,2015,Fraser,Surrey,JUN
+177,1,M,JUL-2015,2015,Northern,Prince George,JUL
+178,1,M,JUL-2015,2015,Northern,Prince George,JUL
+179,1,F,JUL-2015,2015,Vancouver Coastal,Vancouver - South,JUL
+180,1,F,JUL-2015,2015,Fraser,Surrey,JUL
+181,1,M,APR-2015,2015,Northern,Quesnel,APR
+182,1,F,APR-2015,2015,Fraser,Agassiz/Harrison,APR
+183,1,F,APR-2015,2015,None,,APR
+184,1,F,APR-2015,2015,Vancouver Coastal,North Vancouver,APR
+185,1,U,APR-2015,2015,Vancouver Coastal,Richmond,APR
+186,1,U,APR-2015,2015,None,,APR
+187,1,U,APR-2015,2015,Northern,Quesnel,APR
+188,1,U,APR-2015,2015,Fraser,Surrey,APR
+189,1,U,APR-2015,2015,Fraser,Langley,APR
+190,1,F,MAY-2015,2015,None,,MAY
+191,1,M,MAY-2015,2015,Fraser,Surrey,MAY
+192,1,M,MAY-2015,2015,Interior,Central Okanagan,MAY
+193,1,M,MAY-2015,2015,Vancouver Island,Greater Nanaimo,MAY
+194,1,M,MAY-2015,2015,Fraser,Burnaby,MAY
+195,1,M,MAY-2015,2015,Fraser,Tri-Cities,MAY
+196,1,M,MAY-2015,2015,Interior,Armstrong/Spallumcheen,MAY
+197,1,F,MAY-2015,2015,None,,MAY
+198,1,F,MAY-2015,2015,Vancouver Island,Greater Nanaimo,MAY
+199,1,F,MAY-2015,2015,Vancouver Island,Cowichan Valley North,MAY
+200,1,F,MAY-2015,2015,Vancouver Coastal,Vancouver - City Centre,MAY
+201,1,F,MAY-2015,2015,Interior,Penticton,MAY
+202,1,F,MAY-2015,2015,Vancouver Island,Saanich Peninsula,MAY
+203,1,U,MAY-2015,2015,None,,MAY
+204,1,U,MAY-2015,2015,Vancouver Coastal,Vancouver - South,MAY
+205,1,U,MAY-2015,2015,Fraser,Tri-Cities,MAY
+206,1,M,JUN-2015,2015,Vancouver Coastal,Vancouver - South,JUN
+207,1,M,JUN-2015,2015,Vancouver Island,Greater Victoria,JUN
+208,1,M,JUN-2015,2015,Fraser,Delta,JUN
+209,1,F,JUN-2015,2015,Fraser,Surrey,JUN
+210,1,F,JUN-2015,2015,Vancouver Coastal,Vancouver - City Centre,JUN
+211,1,U,JUN-2015,2015,Vancouver Coastal,West Vancouver/Bowen Island,JUN
+212,1,U,JUN-2015,2015,Vancouver Coastal,Vancouver - City Centre,JUN
+213,1,U,JUN-2015,2015,None,,JUN
+214,1,M,JUL-2015,2015,Vancouver Coastal,Vancouver - Northeast,JUL
+215,1,U,MAY-2015,2015,Vancouver Coastal,Richmond,MAY
+216,1,U,MAY-2015,2015,Fraser,Tri-Cities,MAY
+217,1,U,MAY-2015,2015,Vancouver Coastal,Vancouver - Midtown,MAY
+218,1,M,JUN-2015,2015,Vancouver Coastal,Vancouver - City Centre,JUN
+219,1,M,JUN-2015,2015,Northern,Prince George,JUN
+220,1,M,JUN-2015,2015,Fraser,Surrey,JUN
+221,1,U,JUN-2015,2015,Interior,Vernon,JUN
+222,1,M,JUL-2015,2015,Vancouver Island,Greater Victoria,JUL
+223,1,M,JUL-2015,2015,Northern,Peace River South,JUL
+224,1,M,JUL-2015,2015,Vancouver Island,Greater Victoria,JUL
+225,1,M,JUL-2015,2015,Fraser,Surrey,JUL
+226,1,U,JUL-2015,2015,Fraser,Surrey,JUL
+227,1,M,AUG-2015,2015,Interior,Nelson,AUG
+228,1,U,MAY-2015,2015,Fraser,New Westminster,MAY
+229,1,M,JUN-2015,2015,Vancouver Island,Cowichan Valley North,JUN
+230,1,M,JUN-2015,2015,Fraser,Surrey,JUN
+231,1,F,JUN-2015,2015,Vancouver Coastal,Vancouver - Northeast,JUN
+232,1,U,JUN-2015,2015,Fraser,Surrey,JUN
+233,1,U,JUN-2015,2015,Fraser,Surrey,JUN
+234,1,M,JUN-2015,2015,Vancouver Coastal,Vancouver - Midtown,JUN
+235,1,M,JUL-2015,2015,Fraser,Surrey,JUL
+236,1,M,JUL-2015,2015,Vancouver Coastal,Richmond,JUL
+237,1,M,JUL-2015,2015,Vancouver Island,Greater Victoria,JUL
+238,1,F,JUL-2015,2015,Vancouver Coastal,North Vancouver,JUL
+239,1,F,JUL-2015,2015,Fraser,Tri-Cities,JUL
+240,1,M,JUL-2015,2015,Vancouver Coastal,Vancouver - Centre North,JUL
+241,1,U,JUL-2015,2015,None,,JUL
+242,1,F,AUG-2015,2015,Fraser,Surrey,AUG
+243,1,U,MAY-2015,2015,Vancouver Coastal,Vancouver - Northeast,MAY
+244,1,U,MAY-2015,2015,Fraser,Surrey,MAY
+245,1,U,MAY-2015,2015,Vancouver Island,Greater Victoria,MAY
+246,1,U,MAY-2015,2015,Fraser,New Westminster,MAY
+247,1,U,MAY-2015,2015,Northern,Peace River South,MAY
+248,1,U,MAY-2015,2015,None,,MAY
+249,1,U,MAY-2015,2015,Fraser,Surrey,MAY
+250,1,U,MAY-2015,2015,Interior,Cariboo/Chilcotin,MAY
+251,1,M,JUN-2015,2015,Interior,Vernon,JUN
+252,1,M,JUN-2015,2015,Fraser,Tri-Cities,JUN
+253,1,M,JUN-2015,2015,Fraser,Surrey,JUN
+254,1,M,JUN-2015,2015,Fraser,Mission,JUN
+255,1,M,JUN-2015,2015,Fraser,Langley,JUN
+256,1,M,JUN-2015,2015,Vancouver Island,Comox Valley,JUN
+257,1,M,JUN-2015,2015,Northern,Prince George,JUN
+258,1,M,JUN-2015,2015,Fraser,Surrey,JUN
+259,1,M,JUN-2015,2015,Fraser,Langley,JUN
+260,1,F,JUN-2015,2015,Fraser,Langley,JUN
+261,1,M,JUN-2015,2015,Vancouver Coastal,Howe Sound,JUN
+262,1,F,JUN-2015,2015,Fraser,Burnaby,JUN
+263,1,F,JUN-2015,2015,Vancouver Coastal,Howe Sound,JUN
+264,1,F,JUN-2015,2015,Fraser,Surrey,JUN
+265,1,F,JUN-2015,2015,Vancouver Coastal,Vancouver - South,JUN
+266,1,F,JUN-2015,2015,Vancouver Island,Western Communities,JUN
+267,1,U,JUN-2015,2015,Vancouver Coastal,Vancouver - City Centre,JUN
+268,1,F,JUN-2015,2015,Fraser,Tri-Cities,JUN
+269,1,U,JUN-2015,2015,None,,JUN
+270,1,U,JUN-2015,2015,Fraser,Burnaby,JUN
+271,1,U,JUN-2015,2015,None,,JUN
+272,1,U,JUN-2015,2015,Fraser,Langley,JUN
+273,1,U,JUN-2015,2015,Fraser,Delta,JUN
+274,1,F,JUN-2015,2015,Vancouver Coastal,Richmond,JUN
+275,1,M,JUN-2015,2015,Fraser,Mission,JUN
+276,1,M,JUL-2015,2015,Interior,Princeton,JUL
+277,1,M,JUL-2015,2015,Vancouver Coastal,Vancouver - City Centre,JUL
+278,1,M,JUL-2015,2015,Fraser,Mission,JUL
+279,1,M,JUL-2015,2015,Northern,Peace River North,JUL
+280,1,M,JUL-2015,2015,Interior,Central Okanagan,JUL
+281,1,M,JUL-2015,2015,None,,JUL
+282,1,F,JUL-2015,2015,Fraser,Surrey,JUL
+283,1,F,JUL-2015,2015,Vancouver Island,Saanich Peninsula,JUL
+284,1,U,JUL-2015,2015,Northern,Prince George,JUL
+285,1,U,JUL-2015,2015,Vancouver Coastal,Vancouver - Westside,JUL
+286,1,U,JUL-2015,2015,Fraser,Surrey,JUL
+287,1,M,AUG-2015,2015,Interior,Central Okanagan,AUG
+288,1,M,AUG-2015,2015,Vancouver Coastal,North Vancouver,AUG
+289,1,M,AUG-2015,2015,Vancouver Island,Cowichan Valley South,AUG
+290,1,U,JUL-2015,2015,Fraser,Burnaby,JUL
+291,1,M,AUG-2015,2015,Fraser,Abbotsford,AUG
+292,1,M,AUG-2015,2015,Fraser,Surrey,AUG
+293,1,M,SEP-2015,2015,Interior,Kamloops,SEP
+294,1,M,SEP-2015,2015,Fraser,Surrey,SEP
+295,1,M,AUG-2015,2015,Fraser,Delta,AUG
+296,1,M,AUG-2015,2015,None,,AUG
+297,1,M,AUG-2015,2015,Vancouver Coastal,North Vancouver,AUG
+298,1,F,AUG-2015,2015,Fraser,Surrey,AUG
+299,1,F,AUG-2015,2015,Interior,Kamloops,AUG
+300,1,U,AUG-2015,2015,Vancouver Coastal,Vancouver - Westside,AUG
+301,1,M,SEP-2015,2015,Vancouver Coastal,Vancouver - Northeast,SEP
+302,1,M,SEP-2015,2015,Unknown HA,Unknown LHA,SEP
+303,1,U,SEP-2015,2015,Fraser,Surrey,SEP
+304,1,F,AUG-2015,2015,Northern,Peace River North,AUG
+305,1,U,AUG-2015,2015,Vancouver Island,Oceanside,AUG
+306,1,U,SEP-2015,2015,Fraser,New Westminster,SEP
+307,1,F,JUL-2015,2015,Fraser,Chilliwack,JUL
+308,1,F,JUL-2015,2015,Vancouver Coastal,Vancouver - Centre North,JUL
+309,1,F,JUL-2015,2015,Fraser,Abbotsford,JUL
+310,1,F,JUL-2015,2015,Fraser,Burnaby,JUL
+311,1,U,JUL-2015,2015,Vancouver Coastal,Vancouver - Northeast,JUL
+312,1,U,JUL-2015,2015,Northern,Upper Skeena,JUL
+313,1,U,JUL-2015,2015,Vancouver Coastal,Vancouver - South,JUL
+314,1,M,AUG-2015,2015,Vancouver Coastal,Vancouver - Midtown,AUG
+315,1,M,AUG-2015,2015,Fraser,Surrey,AUG
+316,1,M,AUG-2015,2015,Fraser,Surrey,AUG
+317,1,M,AUG-2015,2015,Fraser,Tri-Cities,AUG
+318,1,F,AUG-2015,2015,Vancouver Coastal,Vancouver - Westside,AUG
+319,1,F,AUG-2015,2015,Fraser,Tri-Cities,AUG
+320,1,U,AUG-2015,2015,None,,AUG
+321,1,U,AUG-2015,2015,Interior,Cariboo/Chilcotin,AUG
+322,1,M,SEP-2015,2015,Interior,Armstrong/Spallumcheen,SEP
+323,1,F,SEP-2015,2015,Interior,Southern Okanagan,SEP
+324,1,F,SEP-2015,2015,Vancouver Island,Comox Valley,SEP
+325,1,F,AUG-2015,2015,Vancouver Island,Western Communities,AUG
+326,1,F,AUG-2015,2015,Northern,Prince George,AUG
+327,1,M,SEP-2015,2015,Vancouver Island,Comox Valley,SEP
+328,1,F,SEP-2015,2015,Interior,Armstrong/Spallumcheen,SEP
+329,1,U,SEP-2015,2015,None,,SEP
+330,1,M,OCT-2015,2015,Vancouver Coastal,Vancouver - Westside,OCT
+331,1,M,AUG-2015,2015,Northern,Peace River North,AUG
+332,1,U,AUG-2015,2015,Vancouver Coastal,Vancouver - Midtown,AUG
+333,1,M,SEP-2015,2015,Vancouver Island,Southern Gulf Islands,SEP
+334,1,M,SEP-2015,2015,Northern,Smithers,SEP
+335,1,M,SEP-2015,2015,Northern,Peace River North,SEP
+336,1,F,SEP-2015,2015,Fraser,Surrey,SEP
+337,1,F,SEP-2015,2015,Vancouver Coastal,Vancouver - Centre North,SEP
+338,1,U,SEP-2015,2015,None,,SEP
+339,1,U,SEP-2015,2015,Vancouver Coastal,Howe Sound,SEP
+340,1,M,OCT-2015,2015,Vancouver Island,Western Communities,OCT
+341,1,U,OCT-2015,2015,Interior,Kamloops,OCT
+342,1,U,OCT-2015,2015,Vancouver Coastal,Vancouver - City Centre,OCT
+343,1,M,OCT-2015,2015,Fraser,New Westminster,OCT
+344,1,M,OCT-2015,2015,Fraser,Mission,OCT
+345,1,F,OCT-2015,2015,Fraser,Burnaby,OCT
+346,1,U,OCT-2015,2015,Fraser,Burnaby,OCT
+347,1,U,OCT-2015,2015,Fraser,Burnaby,OCT
+348,1,U,OCT-2015,2015,None,,OCT
+349,1,U,OCT-2015,2015,Interior,Kamloops,OCT
+350,1,M,NOV-2015,2015,Northern,Snow Country,NOV
+351,1,M,DEC-2015,2015,Interior,Penticton,DEC
+352,1,U,SEP-2015,2015,Fraser,Surrey,SEP
+353,1,F,AUG-2015,2015,Vancouver Island,Comox Valley,AUG
+354,1,F,AUG-2015,2015,Fraser,Agassiz/Harrison,AUG
+355,1,F,AUG-2015,2015,Vancouver Island,Greater Victoria,AUG
+356,1,F,AUG-2015,2015,Northern,Peace River South,AUG
+357,1,F,AUG-2015,2015,Vancouver Coastal,Howe Sound,AUG
+358,1,U,AUG-2015,2015,Interior,Kamloops,AUG
+359,1,U,AUG-2015,2015,Fraser,Tri-Cities,AUG
+360,1,F,AUG-2015,2015,Fraser,Surrey,AUG
+361,1,M,SEP-2015,2015,Fraser,Tri-Cities,SEP
+362,1,M,SEP-2015,2015,Fraser,Delta,SEP
+363,1,M,SEP-2015,2015,Vancouver Coastal,Vancouver - Northeast,SEP
+364,1,M,SEP-2015,2015,Vancouver Coastal,Vancouver - Northeast,SEP
+365,1,M,SEP-2015,2015,Northern,Prince George,SEP
+366,1,M,SEP-2015,2015,Vancouver Coastal,North Vancouver,SEP
+367,1,F,SEP-2015,2015,Vancouver Coastal,North Vancouver,SEP
+368,1,M,SEP-2015,2015,Vancouver Island,Oceanside,SEP
+369,1,M,SEP-2015,2015,Fraser,Abbotsford,SEP
+370,1,M,SEP-2015,2015,Vancouver Island,Cowichan Valley South,SEP
+371,1,M,SEP-2015,2015,Vancouver Island,Greater Victoria,SEP
+372,1,M,SEP-2015,2015,None,,SEP
+373,1,M,SEP-2015,2015,Fraser,Abbotsford,SEP
+374,1,M,SEP-2015,2015,Vancouver Island,Saanich Peninsula,SEP
+375,1,M,SEP-2015,2015,Fraser,Surrey,SEP
+376,1,M,SEP-2015,2015,Fraser,Agassiz/Harrison,SEP
+377,1,F,SEP-2015,2015,Fraser,Maple Ridge/Pitt Meadows,SEP
+378,1,F,SEP-2015,2015,Fraser,Surrey,SEP
+379,1,F,SEP-2015,2015,Fraser,Chilliwack,SEP
+380,1,F,SEP-2015,2015,Vancouver Coastal,Vancouver - South,SEP
+381,1,F,SEP-2015,2015,Vancouver Coastal,North Vancouver,SEP
+382,1,F,SEP-2015,2015,Vancouver Island,Saanich Peninsula,SEP
+383,1,F,SEP-2015,2015,Vancouver Island,Greater Nanaimo,SEP
+384,1,F,SEP-2015,2015,Northern,Peace River North,SEP
+385,1,U,SEP-2015,2015,Vancouver Coastal,Vancouver - Midtown,SEP
+386,1,U,SEP-2015,2015,Fraser,Surrey,SEP
+387,1,U,SEP-2015,2015,Fraser,Surrey,SEP
+388,1,U,SEP-2015,2015,Vancouver Island,Cowichan Valley South,SEP
+389,1,F,OCT-2015,2015,None,,OCT
+390,1,M,OCT-2015,2015,Vancouver Coastal,Vancouver - Northeast,OCT
+391,1,F,OCT-2015,2015,Fraser,Surrey,OCT
+392,1,U,SEP-2015,2015,Vancouver Coastal,Richmond,SEP
+393,1,F,SEP-2015,2015,Vancouver Coastal,Vancouver - Centre North,SEP
+394,1,F,SEP-2015,2015,Vancouver Island,Western Communities,SEP
+395,1,F,NOV-2015,2015,Vancouver Coastal,Powell River,NOV
+396,1,M,NOV-2015,2015,Vancouver Coastal,Richmond,NOV
+397,1,M,NOV-2015,2015,Fraser,Maple Ridge/Pitt Meadows,NOV
+398,1,M,NOV-2015,2015,Vancouver Island,Greater Victoria,NOV
+399,1,U,SEP-2015,2015,Vancouver Coastal,Vancouver - City Centre,SEP
+400,1,M,OCT-2015,2015,Interior,Salmon Arm,OCT
+401,1,M,OCT-2015,2015,Vancouver Coastal,Vancouver - City Centre,OCT
+402,1,F,OCT-2015,2015,Vancouver Coastal,North Vancouver,OCT
+403,1,U,OCT-2015,2015,Fraser,Burnaby,OCT
+404,1,U,OCT-2015,2015,None,,OCT
+405,1,U,OCT-2015,2015,Vancouver Island,Greater Nanaimo,OCT
+406,1,U,OCT-2015,2015,Fraser,Abbotsford,OCT
+407,1,U,NOV-2015,2015,Vancouver Coastal,Vancouver - Northeast,NOV
+408,1,U,SEP-2015,2015,Vancouver Coastal,Vancouver - Northeast,SEP
+409,1,U,SEP-2015,2015,None,,SEP
+410,1,U,SEP-2015,2015,Fraser,Abbotsford,SEP
+411,1,U,SEP-2015,2015,Fraser,Tri-Cities,SEP
+412,1,F,SEP-2015,2015,Vancouver Coastal,Vancouver - City Centre,SEP
+413,1,U,SEP-2015,2015,Fraser,Agassiz/Harrison,SEP
+414,1,M,OCT-2015,2015,Fraser,Surrey,OCT
+415,1,M,OCT-2015,2015,Interior,Nelson,OCT
+416,1,M,OCT-2015,2015,Fraser,Burnaby,OCT
+417,1,M,OCT-2015,2015,Vancouver Island,Alberni/Clayoquot,OCT
+418,1,M,OCT-2015,2015,Interior,100 Mile House,OCT
+419,1,M,OCT-2015,2015,Vancouver Coastal,North Vancouver,OCT
+420,1,M,OCT-2015,2015,Vancouver Coastal,Richmond,OCT
+421,1,F,OCT-2015,2015,Interior,Central Okanagan,OCT
+422,1,F,OCT-2015,2015,Vancouver Island,Greater Victoria,OCT
+423,1,F,OCT-2015,2015,Fraser,Surrey,OCT
+424,1,F,OCT-2015,2015,Vancouver Island,Greater Nanaimo,OCT
+425,1,F,OCT-2015,2015,Vancouver Island,Greater Nanaimo,OCT
+426,1,F,OCT-2015,2015,Fraser,Chilliwack,OCT
+427,1,F,OCT-2015,2015,Fraser,Surrey,OCT
+428,1,F,OCT-2015,2015,Fraser,Surrey,OCT
+429,1,F,OCT-2015,2015,Fraser,Surrey,OCT
+430,1,U,OCT-2015,2015,Vancouver Coastal,Howe Sound,OCT
+431,1,U,OCT-2015,2015,Vancouver Coastal,Vancouver - Midtown,OCT
+432,1,U,OCT-2015,2015,Vancouver Coastal,Vancouver - Westside,OCT
+433,1,U,OCT-2015,2015,Fraser,Abbotsford,OCT
+434,1,U,OCT-2015,2015,Fraser,Surrey,OCT
+435,1,U,OCT-2015,2015,None,,OCT
+436,1,U,OCT-2015,2015,Vancouver Coastal,Vancouver - Northeast,OCT
+437,1,M,NOV-2015,2015,Fraser,Surrey,NOV
+438,1,M,NOV-2015,2015,Fraser,Tri-Cities,NOV
+439,1,F,NOV-2015,2015,Fraser,Burnaby,NOV
+440,1,U,NOV-2015,2015,Fraser,Surrey,NOV
+441,1,U,NOV-2015,2015,Vancouver Coastal,Powell River,NOV
+442,1,U,NOV-2015,2015,Vancouver Coastal,Vancouver - Midtown,NOV
+443,1,M,DEC-2015,2015,Interior,Kamloops,DEC
+444,1,M,DEC-2015,2015,Fraser,Tri-Cities,DEC
+445,1,M,DEC-2015,2015,Vancouver Island,Greater Victoria,DEC
+446,1,F,NOV-2015,2015,Fraser,Chilliwack,NOV
+447,1,F,NOV-2015,2015,Vancouver Coastal,North Vancouver,NOV
+448,1,M,DEC-2015,2015,Fraser,Surrey,DEC
+449,1,M,DEC-2015,2015,Fraser,Burnaby,DEC
+450,1,M,DEC-2015,2015,Vancouver Coastal,North Vancouver,DEC
+451,1,U,DEC-2015,2015,Interior,Kamloops,DEC
+452,1,M,NOV-2015,2015,Fraser,Delta,NOV
+453,1,M,NOV-2015,2015,Vancouver Coastal,North Vancouver,NOV
+454,1,U,NOV-2015,2015,Vancouver Coastal,Richmond,NOV
+455,1,M,DEC-2015,2015,Vancouver Coastal,Richmond,DEC
+456,1,M,DEC-2015,2015,Interior,Nelson,DEC
+457,1,F,DEC-2015,2015,Vancouver Coastal,Vancouver - South,DEC
+458,1,M,DEC-2015,2015,Interior,Kamloops,DEC
+459,1,M,NOV-2015,2015,Fraser,Langley,NOV
+460,1,M,NOV-2015,2015,Interior,Central Okanagan,NOV
+461,1,M,NOV-2015,2015,Interior,Enderby,NOV
+462,1,F,NOV-2015,2015,Vancouver Island,Greater Victoria,NOV
+463,1,F,NOV-2015,2015,Vancouver Island,Greater Victoria,NOV
+464,1,F,NOV-2015,2015,Northern,Kitimat,NOV
+465,1,F,NOV-2015,2015,Vancouver Coastal,Vancouver - Northeast,NOV
+466,1,F,NOV-2015,2015,Vancouver Coastal,Vancouver - Midtown,NOV
+467,1,F,NOV-2015,2015,Fraser,Surrey,NOV
+468,1,F,NOV-2015,2015,Fraser,Surrey,NOV
+469,1,U,NOV-2015,2015,Fraser,Abbotsford,NOV
+470,1,U,NOV-2015,2015,Fraser,Langley,NOV
+471,1,F,NOV-2015,2015,Vancouver Coastal,Vancouver - Westside,NOV
+472,1,U,NOV-2015,2015,Fraser,Surrey,NOV
+473,1,U,NOV-2015,2015,Interior,Nelson,NOV
+474,1,U,NOV-2015,2015,Fraser,Surrey,NOV
+475,1,F,NOV-2015,2015,Fraser,Langley,NOV
+476,1,U,NOV-2015,2015,Fraser,Langley,NOV
+477,1,U,NOV-2015,2015,Fraser,Surrey,NOV
+478,1,U,NOV-2015,2015,None,,NOV
+479,1,M,NOV-2015,2015,Northern,Quesnel,NOV
+480,1,M,NOV-2015,2015,Fraser,Abbotsford,NOV
+481,1,M,DEC-2015,2015,Vancouver Coastal,Vancouver - Northeast,DEC
+482,1,M,DEC-2015,2015,Vancouver Coastal,Richmond,DEC
+483,1,M,DEC-2015,2015,Fraser,Abbotsford,DEC
+484,1,M,DEC-2015,2015,Vancouver Island,Greater Victoria,DEC
+485,1,F,DEC-2015,2015,Vancouver Coastal,Vancouver - Westside,DEC
+486,1,F,DEC-2015,2015,Northern,Peace River North,DEC
+487,1,U,DEC-2015,2015,Fraser,Mission,DEC
+488,1,M,DEC-2015,2015,Fraser,Surrey,DEC
+489,1,U,DEC-2015,2015,Fraser,Burnaby,DEC
+490,1,U,DEC-2015,2015,Vancouver Coastal,West Vancouver/Bowen Island,DEC
+491,1,F,DEC-2015,2015,Fraser,Burnaby,DEC
+492,1,F,DEC-2015,2015,Vancouver Coastal,Richmond,DEC
+493,1,U,DEC-2015,2015,Fraser,Burnaby,DEC
+494,1,U,DEC-2015,2015,Vancouver Coastal,Vancouver - Centre North,DEC
+495,1,U,DEC-2015,2015,None,,DEC
+496,1,M,DEC-2015,2015,Fraser,Burnaby,DEC
+497,1,M,DEC-2015,2015,Vancouver Island,Cowichan Valley North,DEC
+498,1,M,DEC-2015,2015,Fraser,Maple Ridge/Pitt Meadows,DEC
+499,1,M,DEC-2015,2015,Vancouver Coastal,Howe Sound,DEC
+500,1,M,DEC-2015,2015,Vancouver Island,Greater Victoria,DEC
+501,1,M,DEC-2015,2015,Fraser,Delta,DEC
+502,1,F,DEC-2015,2015,Vancouver Coastal,Vancouver - Northeast,DEC
+503,1,F,DEC-2015,2015,Fraser,Surrey,DEC
+504,1,F,DEC-2015,2015,Fraser,Tri-Cities,DEC
+505,1,F,DEC-2015,2015,Interior,Armstrong/Spallumcheen,DEC
+506,1,F,DEC-2015,2015,Vancouver Island,Greater Nanaimo,DEC
+507,1,F,DEC-2015,2015,Fraser,Surrey,DEC
+508,1,F,DEC-2015,2015,Fraser,Burnaby,DEC
+509,1,F,DEC-2015,2015,Vancouver Coastal,Vancouver - Westside,DEC
+510,1,F,DEC-2015,2015,Fraser,Burnaby,DEC
+511,1,F,DEC-2015,2015,Vancouver Coastal,Richmond,DEC
+512,1,U,DEC-2015,2015,Vancouver Island,Comox Valley,DEC
+513,1,F,DEC-2015,2015,Vancouver Coastal,North Vancouver,DEC
