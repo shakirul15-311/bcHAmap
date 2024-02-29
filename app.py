@@ -1,5 +1,3 @@
-pip install -r requirements.txt
-
 import csv
 import pandas as pd
 import folium
