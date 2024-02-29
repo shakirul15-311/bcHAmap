@@ -1,4 +1,4 @@
-pip install folium
+install folium
 
 import csv
 import pandas as pd
